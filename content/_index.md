@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: ![avatar_computer](https://user-images.githubusercontent.com/26968359/208100857-b3aad7f4-98ba-4547-8f99-c91f8a5e0f2e.jpg) Quartz 3.
 enableToc: true
 ---
 
